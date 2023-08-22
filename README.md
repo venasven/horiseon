@@ -11,11 +11,11 @@ Comments were added to the CSS for more details.
 ![01-html-css-git-homework-demo](https://github.com/venasven/horiseon/assets/141704995/5b57e9d8-267e-4448-9b1f-27ed9f28adec)
 
 ## Deployed Application
+https://venasven.github.io/horiseon/
 
 ## Credits
-
-Discussed code above with the following classmates:
-Peyton Touma -
-Luzolo Kanga - 
+Discussed assignment with classmates:
+* Peyton Touma - https://github.com/pToum21
+* Luzolo Kanga - https://github.com/Lkanga585
 
 
