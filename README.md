@@ -1,10 +1,10 @@
 # Horiseon
 
 ## Description
--cleaned up the html semantics
--adjusted css as needed to match html
--fixed broken navigation link
--added alt tags to all images
+* cleaned up the html semantics
+* adjusted css as needed to match html
+* fixed broken navigation link
+* added alt tags to all images
 
 ## Preview
 
