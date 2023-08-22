@@ -1,10 +1,10 @@
 # Horiseon
 
 ## Description
-* cleaned up the html semantics
-* adjusted css as needed to match html
-* fixed broken navigation link
-* added alt tags to all images
+
+The code contained was edited down to a more DRY friendly format. The HTML semantics were revised along side the CSS being adjusted accodingly. A broken navigation link was fixed and alt text was added to every image. In the footer element, the header tag was updated to better represent the order of the header tags within the html. The website title was also updated to more accuratly represent the company.
+
+Comments were added to the CSS for more details.
 
 ## Preview
 
@@ -13,4 +13,9 @@
 ## Deployed Application
 
 ## Credits
+
+Discussed code above with the following classmates:
+Peyton Touma -
+Luzolo Kanga - 
+
 
